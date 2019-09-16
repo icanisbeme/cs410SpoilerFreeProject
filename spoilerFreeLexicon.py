@@ -1,5 +1,7 @@
 #Bond Ragsdale, Devan Tighe, Kiersten Mikulsky, Bryan Stone, Nathan Smith
 
+#tessting commit/push to nateBranch
+
 characterNumber = 0
 chapter = 0
 
