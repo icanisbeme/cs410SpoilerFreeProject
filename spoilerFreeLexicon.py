@@ -3,6 +3,8 @@
 characterNumber = 0
 chapter = 0
 
+# nate wuz here also (9/15) lul
+
 def startFunction():
     print("1. Dante")
     print("2. Virgil")
